@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SAPA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_student_page">studentPage</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+    </string>
+
+    <string-array name="status_options">
+        <item>All</item>
+        <item>Pending</item>
+        <item>Approved</item>
+    </string-array>
+
+
+    <string-array name="status_appointments">
+        <item>All</item>
+        <item>Approved</item>
+        <item>Pending</item>
+        <item>Cancelled</item>
+
+    </string-array>
+
+
+    <string-array name="status_bills">
+        <item>All</item>
+        <item>Paid</item>
+        <item>Unpaid</item>
+
+    </string-array>
+
+    <string name="title_activity_add_student_page">add_student_page</string>
+</resources>

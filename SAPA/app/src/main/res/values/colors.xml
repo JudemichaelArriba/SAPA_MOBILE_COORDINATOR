@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#113F67</color>
+    <color name="secondary">#58A0C8</color>
+    <color name="third">#34699A</color>
+    <color name="fourth">#FF7A30</color>
+    <color name="fifth">#3674B5</color>
+    <color name="seventh">#C9E8FF</color>
+    <color name="sixth">#465462</color>
+    <color name="red">#FF0707</color>
+    <color name="hospitalBg">#BFFFC4</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="green">#23BA62</color>
+    <color name="gray_200">#EEEEEE</color>
+<color name="gray_500">#E9E9E9</color>
+<color name="blue_500">#4285F4</color>
+    <color name="nav">#D1D0D0</color>
+</resources>

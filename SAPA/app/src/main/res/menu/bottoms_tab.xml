@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/tab_home"
+    android:title="Home"
+    android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/school"
+        android:title="School"
+        android:icon="@drawable/school"/>
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+    <item
+        android:id="@+id/appointments"
+        android:title="Appt"
+        android:icon="@drawable/appointment"/>
+    <item
+        android:id="@+id/bills"
+        android:title="Bills"
+        android:icon="@drawable/bills"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>
